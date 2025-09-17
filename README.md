@@ -51,3 +51,14 @@
 
 
 ---
+
+### Задание 5*
+
+syslog - системы (вм, на которой всё это стоит)
+
+<img width="1923" height="1081" alt="7" src="https://github.com/user-attachments/assets/675067d4-fa25-4cba-9b18-941d1ff66f01" />
+
+<img width="1282" height="1394" alt="8" src="https://github.com/user-attachments/assets/96534e71-11d6-4c2f-952a-d83f12807842" />
+
+
+---
